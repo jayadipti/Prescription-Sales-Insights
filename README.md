@@ -1,12 +1,12 @@
 Prescription Sales Insights | SQL Project
 
  Project Overview
-This project performs a comprehensive analysis of synthetic pharmaceutical sales data using advanced SQL techniques. The dataset simulates 10,000 prescription sales records, including drugs, prescribers, pharmacies, and sales transactions.
 
-The goal is to extract actionable insights such as top-selling drugs, prescriber behavior, pharmacy performance, and sales trends over time. This showcases expertise in SQL joins, aggregations, CTEs, and window functions on a realistic business dataset.
+This project performs a comprehensive analysis of synthetic pharmaceutical sales data using advanced SQL techniques. The dataset simulates 10,000 prescription sales records, including drugs, prescribers, pharmacies, patients, and sales transactions.
+The goal is to extract actionable insights such as top-selling drugs, prescriber behavior, pharmacy performance, patient demographics, and sales trends over time. This showcases expertise in SQL joins, aggregations, CTEs, and window functions on a realistic business dataset.
 
 
- Key Features & Skills Demonstrated
+Key Features & Skills Demonstrated
 - Design and creation of normalized database tables with foreign key constraints
 - Data population with 10K+ synthetic records using SQL-only methods (recursive CTEs and cross joins)
 - Complex SQL queries employing:
@@ -14,7 +14,7 @@ The goal is to extract actionable insights such as top-selling drugs, prescriber
   - GROUP BYfor aggregation of sales metrics
   - Common Table Expressions (CTEs)for modular and readable queries
   - Window Functions like RANK(), SUM() OVER() for ranking and running totals
-  Analysis of:
+Analysis of:
   - Top-selling drugs and prescribers
   - Pharmacy revenue and drug dependencies
   - Patient demographics and prescribing patterns
