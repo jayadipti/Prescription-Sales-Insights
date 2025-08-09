@@ -14,6 +14,7 @@ Key Features & Skills Demonstrated
   - GROUP BYfor aggregation of sales metrics
   - Common Table Expressions (CTEs)for modular and readable queries
   - Window Functions like RANK(), SUM() OVER() for ranking and running totals
+    
 Analysis of:
   - Top-selling drugs and prescribers
   - Pharmacy revenue and drug dependencies
